@@ -7,10 +7,12 @@ REPOSITORY README
 Read here a brief introduction of KU Leuven Libraries on GitHub:
 
  [https://github.com/KU-Leuven-Libraries](https://github.com/KU-Leuven-Libraries)
+ 
 
 **The Portraits Collection**
 
 The portrait collection at [KU Libraries Special Collections](https://bib.kuleuven.be/bijzondere-collecties/english/home) contains approximately 10.000 prints created between the sixteenth and the twentieth century. They were executed in various techniques: etching, lithograph, mezzotint, steel engraving, wood engraving, heli engraving, etc. The portraits depict professors and academics from Leuven as well as kings, emperors and other aristocratic figures. In some cases they present other scholars and artists. Most portraits are loose leaf materials; others are preserved as part of portrait albums. The portraits were digitised and described as part of the [Europeana project](https://www.europeana.eu/portal/en). The digitisation project was completed in the spring of 2012.
+
 
 **The Portraits Dataset**
 
@@ -22,6 +24,7 @@ The repository is designated as a free resource for digital humanities research,
 
 **Provenance**
 The dataset is fully based on the library catalogue metadata. It holds the descriptive metadata as well as URL links to the digital representation in thumbnail format. The dataset is published in two formats: an XML file that contains the unprocessed dataset as downloaded from the Alma digital preservation environment of the KU Leuven Libraries and a CSV file that contains computationally more amenable curated data. The data was cleaned, transformed and refined with the OpenRefine application software, resulting into 760 individual data processing task. The ensuing file of the OpenRefine can also be found in the repository.
+
 
 **Technical Aspects**
 
@@ -68,9 +71,11 @@ KU Leuven Libraries follows an open images policy that allows its public domain 
 
 [https://bib.kuleuven.be/BD/digitalisering-en-document-delivery/digitalisering/gebruiksvoorwaarden](https://bib.kuleuven.be/BD/digitalisering-en-document-delivery/digitalisering/gebruiksvoorwaarden)
 
+
 **Code of Conduct**
 
 The GitHub repository of KU Leuven Libraries follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md), as a way to be overt in our openness, welcoming all people to contribute, and pledging in return to value them. In order to make our open communities welcoming, diverse and inclusive, we are encouraging the adaptation of the Contributor Covenant as a means to express and codify those values. Any unacceptable behavior as trolling, insulting/derogatory comments, personal or political attacks will not be tolerated. The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
+
 
 **Project Attribution**
 
@@ -91,6 +96,7 @@ Sam Donvil:
 [Advanced Master of Digital Humanities (MSc), KU Leuven](https://set.kuleuven.be/onderwijs/mdh)
 
 Mariana Ziku: Trainee
+
 
 **Contributors**
 
