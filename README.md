@@ -2,7 +2,7 @@ Collections README file for describing the Portraits data repository on GitHub
 
 REPOSITORY README
 
-**KU Leuven Libraries on GitHub**
+*KU Leuven Libraries on GitHub*
 
 Read here a brief introduction of KU Leuven Libraries on GitHub:
 
