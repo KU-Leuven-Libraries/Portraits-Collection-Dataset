@@ -59,10 +59,6 @@ Dr. Nele Gabriels: Supervisor, Digitisation Department
 Bruno Vandermeulen: Director, Digitisation Department
 Diederik Lanoye: Metadata Services and Acquisitions
 An Smets: Special Collections
-
-[Packed](https://www.packed.be/en/)
-Sam Donvil:
-
 [Advanced Master of Digital Humanities (MSc), KU Leuven](https://set.kuleuven.be/onderwijs/mdh)
 Mariana Ziku: Trainee
 
