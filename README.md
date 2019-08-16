@@ -1,7 +1,7 @@
 
 ## KU Leuven Libraries on GitHub
 
-Read [here](https://github.com/KU-Leuven-Libraries/Welcome-to-KU-Libraries-OpenGLAM/blob/master/README.md) a brief introduction of KU Leuven Libraries on GitHub:  
+Read [here](https://github.com/KU-Leuven-Libraries/Welcome-to-KU-Libraries-OpenGLAM/blob/master/README.md) a brief introduction of KU Leuven Libraries on GitHub.  
 
 # The Portraits Collection
 
