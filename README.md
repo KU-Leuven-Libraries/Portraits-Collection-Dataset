@@ -35,18 +35,18 @@ The CSV file contains 10.511 records in rows and 23 columns with the following m
 | I | Imprint 3-Date of manufacture | [https://www.loc.gov/marc/bibliographic/bd264.html](https://www.loc.gov/marc/bibliographic/bd264.html) | date mentioned on print
 | J | Imprint 4-Manufacturer | [https://www.loc.gov/marc/bibliographic/bd260.html](https://www.loc.gov/marc/bibliographic/bd260.html) | F.L. Dony & Comp.
 | K | Physical Description 1-print length | Description of physical object, varying parameters depending on the nature of the objects, [https://www.loc.gov/marc/bibliographic/bd300.html](https://www.loc.gov/marc/bibliographic/bd300.html) | 242
-| K | Physical Description 2-print width | same as above | 152
-| L | Physical Description 3-portrait | same as above | 218 x 152 mm
-| M | Physical Description 4-page size | same as above | 
-| N | Description of graphic material | Describes material and colors of graphic material, [https://www.loc.gov/marc/bibliographic/bd340.html](https://www.loc.gov/marc/bibliographic/bd340.html) | 
-| O | General notes | [https://www.loc.gov/marc/bibliographic/bd500.html](https://www.loc.gov/marc/bibliographic/bd500.html) | \\$oBlack-and-white
-| P | Authors | [https://www.loc.gov/marc/bibliographic/bd700.html](https://www.loc.gov/marc/bibliographic/bd700.html) | \\$atitel gecreeÌ erd door catalograaf
+| L | Physical Description 2-print width | same as above | 152
+| M | Physical Description 3-portrait | same as above | 218 x 152 mm
+| N | Physical Description 4-page size | same as above | 
+| O | Description of graphic material | Describes material and colors of graphic material, [https://www.loc.gov/marc/bibliographic/bd340.html](https://www.loc.gov/marc/bibliographic/bd340.html) | \\$oBlack-and-white
+| P | General notes | [https://www.loc.gov/marc/bibliographic/bd500.html](https://www.loc.gov/marc/bibliographic/bd500.html) | \\$atitel gecreeÌ erd door catalograaf
+| Q | Authors | [https://www.loc.gov/marc/bibliographic/bd700.html](https://www.loc.gov/marc/bibliographic/bd700.html) | -
 | R | Typographical terms 1 | Terms taken from a list of terms to retrieve certain (typo)graphical techniques, phenomena etc.(local use), | etching
 | S | Typographical terms 2 | Terms taken from a list of terms to retrieve certain (typo)graphical techniques, phenomena etc.(local use), | engraving
 | T | Inscriptions | Transcriptions of the texts found on the portraits, local use | \\$aHENRICVS VAN BAELEN
 | U | Link to digital object 1 | direct url to record in Limo, the search interface of the library | http://resolver.libis.be/FL4856542/thumbnail
 | V | Query URL | url l | [https://limo.libis.be/primo-explore/search?](https://limo.libis.be/primo-explore/search?query=any,contains,9985111730101488&tab=all_content_tab&search_scope=ALL_CONTENT&vid=KULeuven)
-| W | Physical original | direct code to physical location of the print |  KU Leuven Libraries BIBC BRES RC97/094
+| W | Physical original | direct code to physical location of the print | KU Leuven Libraries BIBC BRES RC97/094
 
 
 
