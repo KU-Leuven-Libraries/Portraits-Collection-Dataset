@@ -43,9 +43,9 @@ The CSV file contains 10.511 records in rows and 23 columns with the following m
 | P | Authors | [https://www.loc.gov/marc/bibliographic/bd700.html](https://www.loc.gov/marc/bibliographic/bd700.html) | \\$atitel gecreeÌ erd door catalograaf
 | R | Typographical terms 1 | Terms taken from a list of terms to retrieve certain (typo)graphical techniques, phenomena etc.(local use), | etching
 | S | Typographical terms 2 | Terms taken from a list of terms to retrieve certain (typo)graphical techniques, phenomena etc.(local use), | engraving
-| T | Inscriptions | Transcriptions of the texts found on the portraits, local use | \\$aHENRICVS VAN BAELEN / PICTOR ANTV: HVMANARVM FIGVRARVM VETVSTATIS CVLTOR
+| T | Inscriptions | Transcriptions of the texts found on the portraits, local use | \\$aHENRICVS VAN BAELEN
 | U | Link to digital object 1 | direct url to record in Limo, the search interface of the library | http://resolver.libis.be/FL4856542/thumbnail
-| V | Query URL | url l | https://limo.libis.be/primo-explore/search?query=any,contains,9985111730101488&tab=all_content_tab&search_scope=ALL_CONTENT&vid=KULeuven
+| V | Query URL | url l | [https://limo.libis.be/primo-explore/search?](https://limo.libis.be/primo-explore/search?query=any,contains,9985111730101488&tab=all_content_tab&search_scope=ALL_CONTENT&vid=KULeuven)
 | W | Physical original | direct code to physical location of the print |  KU Leuven Libraries BIBC BRES RC97/094
 
 
