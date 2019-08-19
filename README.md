@@ -7,7 +7,7 @@ Read [here](https://github.com/KU-Leuven-Libraries/Welcome-to-KU-Libraries-OpenG
 The portrait collection at [KU Libraries Special Collections](https://bib.kuleuven.be/bijzondere-collecties/english/home) contains approximately 10.000 prints created between the sixteenth and the twentieth century. They were executed in various techniques: etching, lithograph, mezzotint, steel engraving, wood engraving, heli engraving, etc. The portraits depict professors and academics from Leuven as well as kings, emperors and other aristocratic figures. In some cases they present other scholars and artists. Most portraits are loose leaf materials; others are preserved as part of portrait albums. The portraits were digitised and described as part of the [Europeana project](https://www.europeana.eu/portal/en). The digitisation project was completed in the spring of 2012. 
 
 # The Portraits Dataset
-***
+
 ## Repository type
 The Portraits dataset is a repository of descriptive metadata representing all the single-file documents with graphic art from the Special Collections of the KU Leuven Libraries that depict people. The digitized Portraits Collection can also be explored through the [Libraries’ Curated Collections](https://limo.libis.be/primo-explore/collectionDiscovery?vid=KULeuven&collectionId=81386064490001488&lang=en_US) discovery interface, within the thematic collection ["Graphic works"](https://limo.libis.be/primo-explore/collectionDiscovery?vid=KULeuven&collectionId=81411248760001488&lang=en_US&query=any,contains,portraits). 
 
