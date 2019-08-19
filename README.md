@@ -21,6 +21,36 @@ The dataset is fully based on the library catalogue metadata. It holds the descr
 ## Technical Aspects
 The CSV file contains 10.511 records in rows and 23 columns with the following metadata:
 
+
+| Column | Content type | Description| Instance
+|--|--|--|--|
+| A | Record ID |  unique key = record id in original cataloging system | 9.98511173010149E+015
+| B | Type of date | encoded indication of type of date, [https://www.loc.gov/marc/bibliographic/bd008a.html] | q
+| C | Single/first date | the date the print was created | 16uu
+| D | Second date | a second indicative date the print was created | \\\\
+| E | Language | encoded indication of primary language of publication, [https://www.loc.gov/marc/languages/](https://www.loc.gov/marc/languages/) | lat
+| F | Main title | Main title of the publication, [https://www.loc.gov/marc/bibliographic/bd245.html](https://www.loc.gov/marc/bibliographic/bd245.html) | 00$aHenricus van Baelen
+| G | Imprint 1-Date of publication | [https://www.loc.gov/marc/bibliographic/bd260.html](https://www.loc.gov/marc/bibliographic/bd260.html) | \$cs.d
+| H | Imprint 2-Place of manufacture | [https://www.loc.gov/marc/bibliographic/bd264.html](https://www.loc.gov/marc/bibliographic/bd264.html) | Gravenhage
+| I | Imprint 3-Date of manufacture | [https://www.loc.gov/marc/bibliographic/bd264.html](https://www.loc.gov/marc/bibliographic/bd264.html) | date mentioned on print
+| J | Imprint 4-Manufacturer | [https://www.loc.gov/marc/bibliographic/bd260.html](https://www.loc.gov/marc/bibliographic/bd260.html) | F.L. Dony & Comp.
+| K | Physical Description 1-print length | Description of physical object, varying parameters depending on the nature of the objects, [https://www.loc.gov/marc/bibliographic/bd300.html](https://www.loc.gov/marc/bibliographic/bd300.html) | 242
+| K | Physical Description 2-print width | same as above | 152
+| L | Physical Description 3-portrait | same as above | 218 x 152 mm
+| M | Physical Description 4-page size | same as above | 
+| N | Description of graphic material | Describes material and colors of graphic material, [https://www.loc.gov/marc/bibliographic/bd340.html](https://www.loc.gov/marc/bibliographic/bd340.html) | 
+| O | General notes | [https://www.loc.gov/marc/bibliographic/bd500.html](https://www.loc.gov/marc/bibliographic/bd500.html) | \\$oBlack-and-white
+| P | Authors | [https://www.loc.gov/marc/bibliographic/bd700.html](https://www.loc.gov/marc/bibliographic/bd700.html) | \\$atitel gecreeÌ erd door catalograaf
+| R | Typographical terms 1 | Terms taken from a list of terms to retrieve certain (typo)graphical techniques, phenomena etc.(local use), | etching
+| S | Typographical terms 2 | Terms taken from a list of terms to retrieve certain (typo)graphical techniques, phenomena etc.(local use), | engraving
+| T | Inscriptions | Transcriptions of the texts found on the portraits, local use | \\$aHENRICVS VAN BAELEN / PICTOR ANTV: HVMANARVM FIGVRARVM VETVSTATIS CVLTOR
+| U | Link to digital object 1 | direct url to record in Limo, the search interface of the library | http://resolver.libis.be/FL4856542/thumbnail
+| V | Query URL | url l | https://limo.libis.be/primo-explore/search?query=any,contains,9985111730101488&tab=all_content_tab&search_scope=ALL_CONTENT&vid=KULeuven
+| W | Physical original | direct code to physical location of the print |  KU Leuven Libraries BIBC BRES RC97/094
+
+
+
+
 ## Cite this dataset
 When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) that is minted in Zenodo [![DOI](https://zenodo.org/badge/203035328.svg)](https://zenodo.org/badge/latestdoi/203035328)
 . Citing the data repository of the Portraits collection creates a mapping of attribution supporting efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links. 
