@@ -53,9 +53,9 @@ The CSV file contains 10.511 records in rows and 23 columns with the following m
 
 
 ## Cite this dataset
-When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) that is minted in Zenodo [![DOI](https://zenodo.org/badge/203035328.svg)](https://zenodo.org/badge/latestdoi/203035328)
+When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) that is minted in Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3460785.svg)](https://doi.org/10.5281/zenodo.3460785)
 . Citing the data repository of the Portraits collection creates a mapping of attribution supporting efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links. 
-Cite the repository as: KU Leuven Libraries, Digitisation Department. (2019). The Portraits Collection Dataset of KU Leuven Libraries, Special Collections (Version 01-beta2) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3370729.
+Cite the repository as: KU Leuven Libraries, Digitisation Department. (2019). The Portraits Collection Dataset of KU Leuven Libraries, Special Collections (Version 01-beta2) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3460785.
 
 ## License    
 The Portraits Collection repository is licensed under a [Public Domain Mark](https://creativecommons.org/share-your-work/public-domain/pdm/) (PDM). PDM operates as a label indicating that the dataset is no longer restricted by copyright and can be freely used by everyone. 
