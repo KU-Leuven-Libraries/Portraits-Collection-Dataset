@@ -25,7 +25,7 @@ The CSV file contains 10.511 records in rows and 23 columns with the following m
 
 | Column | Content type | Description| Instance
 |--|--|--|--|
-| A | Record ID |  unique key = record id in original cataloging system | 9.98511173010149E+015
+| A | Record ID |  unique key = record id in original cataloging system | 9985111730101488
 | B | Type of date | encoded indication of type of date, [https://www.loc.gov/marc/bibliographic/bd008a.html] | q
 | C | Single/first date | the date the print was created | 16uu
 | D | Second date | a second indicative date the print was created | \\\\
