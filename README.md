@@ -65,7 +65,7 @@ KU Leuven Libraries follows an open images policy that allows its public domain 
 https://bib.kuleuven.be/BD/digitalisering-en-document-delivery/digitalisering/gebruiksvoorwaarden 
 
 ## Code of Conduct
-The GitHub repository of KU Leuven Libraries follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md), as a way to be overt in our openness, welcoming all people to contribute, and pledging in return to value them. In order to make our open communities welcoming, diverse and inclusive, we are encouraging the adaptation of the Contributor Covenant as a means to express and codify those values. Any unacceptable behavior as trolling, insulting/derogatory comments, personal or political attacks will not be tolerated. The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
+The GitHub repository of the Digitisation Department of KU Leuven Libraries follows the [Contributor Covenant](https://www.contributor-covenant.org) as a way to be overt in its openness, welcoming all people to engage and contribute, pledging in return to value them. In order to make our open communities welcoming, diverse and inclusive, we are encouraging the adaptation of a mindful code of conduct as a means to express and share those values. Any unacceptable behavior as trolling, insulting/derogatory comments, personal or political attacks will not be tolerated. The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
 
 ## Project Attribution
 [KU Leuven Libraries](https://bib.kuleuven.be/english)
@@ -75,8 +75,8 @@ The GitHub repository of KU Leuven Libraries follows the [CNCF Code of Conduct](
 * An Smets: Special Collections 
 <br/>
 
-[Advanced Master of Digital Humanities (MSc), KU Leuven](https://set.kuleuven.be/onderwijs/mdh)
-* Mariana Ziku: Trainee
+[Advanced MSc in Digital Humanities, KU Leuven](https://set.kuleuven.be/onderwijs/mdh)
+* Mariana Ziku: Research and Traineeship, thesis project
 
 ## Contributors
 This project follows the [all-contributors](https://allcontributors.org) specification. KU Leuven Libraries recognises contributions and engagement for its open data repository through [emoji key](https://allcontributors.org/docs/en/emoji-key)✨, in a way to reward every contribution, not only code. Contributions of any kind like questions, ideas, link to videos, translations and many more will be automatically acknowledged through the all-contributors bot 🤖.
