@@ -9,18 +9,18 @@ The portrait collection at [KU Libraries Special Collections](https://bib.kuleuv
 # The Portraits Dataset
 
 ## Repository type
-The Portraits dataset is a repository of descriptive metadata representing all the single-file documents with graphic art from the Special Collections of the KU Leuven Libraries that depict people. The digitized Portraits Collection can also be explored through the [Libraries’ Curated Collections](https://limo.libis.be/primo-explore/collectionDiscovery?vid=KULeuven&collectionId=81386064490001488&lang=en_US) discovery interface, within the thematic collection ["Graphic works"](https://limo.libis.be/primo-explore/collectionDiscovery?vid=KULeuven&collectionId=81411248760001488&lang=en_US&query=any,contains,portraits). 
+The Portraits dataset is a repository of descriptive metadata representing all the single-file documents with graphic art from the Special Collections of the KU Leuven Libraries that depict people. The digitised Portraits Collection can also be explored through the [Libraries’ Curated Collections](https://limo.libis.be/primo-explore/collectionDiscovery?vid=KULeuven&collectionId=81386064490001488&lang=en_US) discovery interface, within the thematic collection ["Graphic works"](https://limo.libis.be/primo-explore/collectionDiscovery?vid=KULeuven&collectionId=81411248760001488&lang=en_US&query=any,contains,portraits). 
 
 
 
 ## Who can use it
-The repository is designated as a free resource for digital humanities research, for scholars, students and teachers. It also is intended for creative reuses, data visualisations and algorithmic processing.
+The repository is designated as a free resource for digital humanities research, for scholars, students and teachers. It also is intended for creative reuses.
 
 ## Provenance
 The dataset is fully based on the library catalogue metadata. It holds the descriptive metadata as well as URL links to the digital representation in thumbnail format. The dataset is published in two formats: an XML file that contains the unprocessed dataset as downloaded from the Alma digital preservation environment of KU Leuven Libraries and a CSV file that contains computationally more amenable curated data. The data was cleaned, transformed and refined with the OpenRefine application software, resulting into 760 individual data processing tasks. The ensuing file of the OpenRefine can also be found in the repository. 
 
 ## Technical Aspects
-The CSV file contains 10.511 records in rows and 23 columns. For a correct download click on the PORTRAITS-metadata.csv and then right-click on 'Download' selecting 'Save link as'. In order to correctly display the CSV file and the registered records, it is suggested to use Libre or Open Office. The recommended setup for a properly display of the CSV file can be adjusted in the import popup window: 'Character set' to 'Unicode (UTF-8)', the separator options 'Tab', 'Comma' and 'Semicolon' should be selected and the 'Column type' of Column A (Record ID) should be changed from 'Standard' to 'Text'.
+The CSV file contains 10.511 records in rows and 23 columns. For a correct download click on the [PORTRAITS-metadata.csv](https://github.com/KU-Leuven-Libraries/Portraits-Collection-Dataset/blob/master/PORTRAITS-metadata.csv) and then right-click on 'Download' selecting 'Save link as'. The CSV file can also be downloaded from [Zenodo](https://zenodo.org/record/3460785). In order to correctly display the CSV file and the registered records, it is suggested to use Libre or Open Office. The recommended setup for a properly display of the CSV file can be adjusted in the import popup window: 'Character set' to 'Unicode (UTF-8)', the separator options 'Tab', 'Comma' and 'Semicolon' should be selected and the 'Column type' of Column A (Record ID) should be changed from 'Standard' to 'Text'.
 
 The CSV file contains the following metadata:
 
